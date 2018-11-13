@@ -54,3 +54,7 @@ gem 'devise'
 gem 'foundation-rails', '~> 5.0'
 gem 'webpacker', '~> 3.2'
 gem 'active_model_serializers'
+gem 'rack-cors', :require => 'rack/cors'
+
+gem 'will_paginate', '>= 3.1'
+gem 'api-pagination'
